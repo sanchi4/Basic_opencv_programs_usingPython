@@ -2,7 +2,7 @@
 
 These are three basic programs written in python using opencv.
 
-<b>FACE DETECTION</b> - It will detect all the faces that are visible in the image.
+<b>FACE DETECTION</b> - It will detect all the faces that are visible in the image. The program uses the library  haarcascade_frontalface_default.xml
 
 <b>COLOR DETECTION</b>- It will recognize red, blue and yellow color in the picture and will point out the respective colors in the image.
 
